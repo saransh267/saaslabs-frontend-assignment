@@ -1,5 +1,15 @@
 # Frontend Assignment
 
+## Hosted link for the App:
+
+https://saaslabs-kickstarter.netlify.app/
+
+## Steps to run the App in local:
+
+1. Clone the repo in your system.
+2. Install dependencies: npm i
+3. Start the application: npm start
+4. Open the localhost link in the browser.
 
 ## Assignment
 
