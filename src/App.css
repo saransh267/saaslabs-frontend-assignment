@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin: 24px 0;
+}
+
+table {
+  margin: 24px auto;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+table th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.page-navigation {
+  display: flex;
+  justify-content: center;
+}
+
+.page-link {
+  margin: 0 4px;
+  padding: 8px 8px;
+  border: 1px solid gray;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.page-link.selected {
+  background-color: #8ab4f8;
+  color: white;
+}
+
+.page-link.disable {
+  display: none;
+}
